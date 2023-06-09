@@ -1,0 +1,17 @@
+{
+  "name": "desafio_repertorio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "Williams Hernandez",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
